@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "bootstrap"
+baseurl: "http://malacola.github.com/bootstrap"
 exclude:
 - .gitignore
 - README.md
